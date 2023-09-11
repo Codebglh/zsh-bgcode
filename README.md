@@ -2,5 +2,5 @@
 
 # 2、使用
 ```
-git clone https://ghproxy.com/https://github.com/Codebglh/zsh-bgcode.git   .oh-my-zsh/custom/plugins/bgcode
+git clone https://ghproxy.com/https://github.com/Codebglh/zsh-bgcode.git   .oh-my-zsh/custom/plugins/zsh-bgcode
 ```
